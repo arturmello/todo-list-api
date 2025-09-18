@@ -7,7 +7,8 @@ The goal is to practice backend fundamentals, layered architecture, and software
 - Create, list, update and delete tasks (CRUD).
 - Input validation.
 - Incremental IDs in memory.
-
+- Controller implemented to expose the REST API.
+  
 ## 📌 Next steps
 - Add persistence with a database (e.g. SQLite + Prisma).
 - Create automated tests.
