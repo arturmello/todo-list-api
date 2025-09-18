@@ -9,6 +9,5 @@ The goal is to practice backend fundamentals, layered architecture, and software
 - Incremental IDs in memory.
 
 ## 📌 Next steps
-- Implement Controller to expose the REST API.
 - Add persistence with a database (e.g. SQLite + Prisma).
 - Create automated tests.
